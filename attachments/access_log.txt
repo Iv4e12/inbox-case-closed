@@ -1,0 +1,16 @@
+﻿BLACKWOOD GALLERY SECURITY SYSTEM – ACCESS LOG
+
+DATE: 17th October
+
+20:41 – Staff access: Marcus Vale
+20:45 – Staff access: David Reed
+20:47 – Maintenance corridor access: Card ID DR-04
+21:17 – Maintenance corridor access: Card ID DR-04
+21:19 – Main gallery camera recording resumed
+
+CARDHOLDER: David Reed
+CARD STATUS: Reported returned at 20:45
+
+SYSTEM NOTE: The access log records card usage, not the identity of the person physically carrying the card.
+
+STATUS: REQUIRES INVESTIGATION 

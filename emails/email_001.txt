@@ -1,0 +1,21 @@
+﻿Detective,
+
+At 9:17PM last night, a priceless night known as “The Blue Room” vanished from the Blackwood Gallery. The security system shows nobody entering or leaving the building during the incident.
+
+Four people are under investigation:
+-Marcus Vale, security guard
+-Elena Cross, gallery owner
+-David Reed, maintenance worker
+-Sophie Lane, art collector
+
+Your task is to determine:
+1. Who stole the painting?
+2. How did they remove it?
+3. Why did steal it?
+4. What exactly happened at 9:17PM?
+
+The evidence is scattered across the correspondence and records provided in this case.
+Do not trust an alibi without verifying it first.
+Your investigation starts now.
+
+-Chief Inspector 

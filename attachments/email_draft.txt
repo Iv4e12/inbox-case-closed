@@ -1,0 +1,19 @@
+﻿RECOVERED MESSAGE – PARTIAL FRAGMENT
+
+RECOVERY SOURCE: Gallery office computer
+RECOVERY DATE: 18th October
+SENDER: [corrupted]
+RECIPIENT: [corrupted]
+STATUS: PARTIALLY RECOVERED
+
+MESSAGE CONTENTS”
+“...the canvas without its frame…”
+“...collection shortly after 9:20PM…”
+“...there must be no paperwork connecting this to me…”
+
+RECOVERY NOTE: The original message was corrupted. The sender and recipient fields failed to recover.
+
+A short binary string was found at the end of the message:
+01000100
+
+INVESTIGATOR’S NOTE: The binary string may contain identifying information. Its meaning has not yet been confirmed.

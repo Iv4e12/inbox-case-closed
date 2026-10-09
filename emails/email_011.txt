@@ -1,0 +1,15 @@
+﻿FROM: David Reed
+TO: Marcus Vale
+SUBJECT: Just checkin in
+
+Hey Marcus,
+
+I heard management has been asking questions about last night’s security logs.
+
+Just to be clear, I left the gallery at 8:45 PM, and I returned my access card before leaving. I didn’t go back inside afterward.
+
+I know the cameras have been unreliable lately, so hopefully this is just another technical issue. It would be a shame if people started making accusations based on incomplete footage.
+
+Let me know if you hear anything else.
+
+-David

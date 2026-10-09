@@ -1,0 +1,13 @@
+﻿FROM: Gallery Management
+TO: David Reed
+SUBJECT: Access Card Confirmation
+
+David,
+
+Our records show that your access card was used in the maintenance corridor at 9:17PM last night .
+
+You previously stated that you had returned your card before leaving at 8:45PM. Please explain this discrepancy.
+Reply ASAP.
+
+Regards,
+Gallery Management

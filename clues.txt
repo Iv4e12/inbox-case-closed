@@ -1,0 +1,103 @@
+**Evidence – Case 001: The 9:17 Incident**
+
+
+**Clue 1 – The Camera Gap**
+
+
+**Source: security system report**
+
+**Time: 9:16 – 9:19PM**
+
+The gallery’s main camera stopped recording for exactly three minutes. No system failure was reported.
+
+What it suggests: Someone may have deliberately interrupted the recording
+
+
+**Clue 2 – The Access Log**
+
+
+**Source: Electronic maintenance door**
+
+**Time: 9:17PM**
+
+David Reed’s access card unlocked the maintenance corridor.
+
+What it suggests: Someone used David’s card, or David used it himself.
+
+
+**Clue 3 – The Insurance Email**
+
+
+**Source: Email from the gallery’s owner**
+
+**Time: Two days before the theft**
+
+Elena Cross asked her insurer whether the painting’s disappearance would be covered at its newly increased valuation.
+
+What it suggests: Elena may have had a financial motive.
+
+
+**Clue 4 – The Collector’s Offer**
+
+
+**Source: Email from Sophie Lane**
+
+**Time: 8:32 PM**
+
+Sophie offered Elena an unusually large sum for The Blue Room. Elena refused.
+
+What it suggests: Sophie wanted the painting badly enough to consider breaking the law.
+
+
+**Clue 5 – The Guard’s Complaint**
+
+
+**Source: Email from Marcus Vale**
+
+**Time: 8:51 PM**
+
+**Marcus complained that the camera had been unreliable all week and that he had reported the problem to management.**
+
+**What it suggests: The camera gap might not be deliberate.**
+
+**Clue 6 – The Delivery Receipt**
+
+**Source: Gallery loading-dock receipt**
+
+**Time: 9:24PM**
+
+**A maintenance supply delivery was marked as collected, but the driver wrote that nobody signed for it.**
+
+**What it suggests: The delivery record may have been used to disguise movement through the loading-dock.**
+
+
+
+
+
+
+**Clue 7 – The Contradiction**
+
+
+**Source: David’s email to Marcus**
+
+**Time: 9:41PM**
+
+**David wrote: “I handed my access card back before I left at 8:45”**
+
+**But the access log shows his card was used at 9:17PM**
+
+**What it suggests: David’s claim is incomplete, or someone else had his card.**
+
+
+**Clue 8 – The Missing Attachment**
+
+
+**Source: Recovered email draft**
+
+**Time: 9:18 PM**
+
+**A draft email contains the words: “It’s done. The frame is still there.”**
+
+**The attachment that was supposed to accompany the message is missing.**
+
+**What it suggests: The painting may have been removed from its frame, and someone tried to communicate about the theft.**

@@ -1,0 +1,12 @@
+﻿FROM: David Reed
+TO: Marcus Vale
+SUBJECT: Finished for Tonight
+
+Hey Marcus,
+
+Finished my maintenance work and left at 8:45 PM like planned.
+
+I returned my access card to the usual place before leaving. Everything looked normal when I left.
+Let me know if anything else needs fixing tomorrow.
+
+-David

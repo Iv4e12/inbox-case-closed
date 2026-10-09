@@ -1,0 +1,22 @@
+﻿FROM: Chief Inspector
+TO: You
+SUBJECT: CASE #001 – Final Report
+
+Detective,
+
+We’ve collected enough evidence to begin drawing conclusions about the disappearance of The Blue Room.
+
+Before submitting your final report, review the correspondence, access logs, camera records, and loading dock documentation carefully.
+
+Four questions remain.
+-Who stole the painting?
+-How was it removed without appearing on the security footage?
+-What was the motive?
+-What happened at exactly 9:17PM?
+
+Be careful not to confuse suspicious behavior with proof. Your conclusion must be supported by the evidence you’ve uncovered.
+
+Once you’re certain, submit your findings and explain how each clue supports your theory.
+
+The case is yours to solve.
+-Chief Inspector

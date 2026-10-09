@@ -1,0 +1,12 @@
+﻿FROM: Marcus Vale
+TO: Gallery Management
+SUBJECT: Camera System Issue
+
+Hello,
+
+I’m reporting another issue with the gallery’s main security camera.
+The recording has been cutting out intermittently this week. I’ve reported it before, but the problem still hasn’t been fixed.
+
+I’ll continue monitoring the other cameras until maintenance can inspect the system.
+
+-Marcus Vale, security guard

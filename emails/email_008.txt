@@ -1,0 +1,20 @@
+﻿FROM: Marcus Vale
+TO: Gallery Management
+SUBJECT: Re: Camera System Issue
+
+Hello,
+
+I reviewed the security logs from last night after noticing several irregularities in the footage.
+
+The main camera has a recording gap between 9:16 PM and 9:19 PM. Unfortunately, the maintenance corridor camera also failed to capture a clear image during that period. This is particularly concerning because the corridor provides access to the gallery's service areas.
+
+I checked the footage immediately before and after the interruption, but I couldn't identify anyone entering or leaving the affected area. The system's access logs may provide additional information about who was present during that time.
+
+As mentioned in my previous report, the camera system has been experiencing intermittent problems throughout the week. I recommend having a technician inspect the equipment as soon as possible.
+
+I'll continue reviewing the available footage and report anything unusual.
+
+Regards,
+Marcus Vale
+Security Guard
+Blackwood Gallery

@@ -1,0 +1,12 @@
+﻿FROM: Gallery Management
+TO: Marcus Vale
+SUBJECT: Re: Camera System Issue
+
+Marcus,
+
+We received your report regarding the security cameras. Please confirm whether the recording interruption affects only the main camera or other areas of the gallery as well.
+
+Until the issue is resolved, ensure all unusual activity is documented and reported immediately.
+
+Regards,
+Gallery Management
