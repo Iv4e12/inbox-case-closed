@@ -1,0 +1,123 @@
+{
+  "case_id": "001",
+  "case_title": "THE 9:17 INCIDENT",
+  "puzzles": [
+    {
+      "id": 1,
+      "title": "Choose Your First Lead",
+      "question": "Which suspect would you investigate first, and what evidence supports your choice?",
+      "accepted_answers": [],
+      "evidence": [
+        "suspects.txt",
+        "emails/email_002.txt",
+        "emails/email_003.txt",
+        "emails/email_004.txt",
+        "emails/email_005.txt"
+      ],
+      "hints": [
+        "Review each suspect's possible motive.",
+        "Compare the suspects' claims with the known timeline.",
+        "Any suspect is a valid starting point if you explain your reasoning with evidence."
+      ],
+      "next_puzzle": 2
+    },
+    {
+      "id": 2,
+      "title": "The Camera Gap",
+      "question": "What can you reasonably conclude from the camera gap, and what can you not prove yet?",
+      "accepted_answers": [],
+      "evidence": [
+        "emails/email_004.txt",
+        "emails/email_006.txt",
+        "emails/email_008.txt",
+        "clues.txt"
+      ],
+      "hints": [
+        "The main camera stopped recording from 9:16 to 9:19 PM.",
+        "Marcus reported camera problems before the incident.",
+        "The gap is suspicious, but the evidence does not prove it was deliberately caused."
+      ],
+      "next_puzzle": 3
+    },
+    {
+      "id": 3,
+      "title": "The Access-Card Contradiction",
+      "question": "What is suspicious about David's account of his access card, and what alternative explanations remain possible?",
+      "accepted_answers": [],
+      "evidence": [
+        "emails/email_003.txt",
+        "emails/email_011.txt",
+        "attachments/access_log.txt"
+      ],
+      "hints": [
+        "Compare David's claimed departure time with the electronic access log.",
+        "His card was used at 9:17 PM despite his claim that he returned it at 8:45 PM.",
+        "The log proves the card was used, not who physically used it."
+      ],
+      "next_puzzle": 4
+    },
+    {
+      "id": 4,
+      "title": "The Unverified Collection",
+      "question": "How might the 9:24 PM loading-dock record relate to the disappearance, and what does it fail to prove?",
+      "accepted_answers": [],
+      "evidence": [
+        "emails/email_009.txt",
+        "attachments/loading_dock_receipt.txt"
+      ],
+      "hints": [
+        "Check the time, the listed materials, and the missing recipient.",
+        "Consider how an unauthorized collection could conceal an object being moved.",
+        "The receipt is suspicious, but it does not identify what was collected or who took it."
+      ],
+      "next_puzzle": 5
+    },
+    {
+      "id": 5,
+      "title": "The Missing Frame",
+      "question": "What does the recovered message suggest about how The Blue Room was removed?",
+      "accepted_answers": [],
+      "evidence": [
+        "emails/email_010.txt",
+        "attachments/email_draft.txt"
+      ],
+      "hints": [
+        "Look closely at the repeated and emphasized words in the recovered message.",
+        "The message refers to a canvas being delivered without its frame.",
+        "One plausible theory is that the canvas was separated from the frame, but you still need evidence about who arranged it."
+      ],
+      "next_puzzle": 6
+    },
+    {
+      "id": 6,
+      "title": "The Hidden History",
+      "question": "What might the unusual second layer beneath the painting's backing mean, and how could it relate to a possible motive?",
+      "accepted_answers": [],
+      "evidence": [
+        "attachments/restoration_record.txt",
+        "emails/email_003.txt"
+      ],
+      "hints": [
+        "The restoration record says the second layer was never examined.",
+        "David's maintenance email mentions noticing something unusual behind old backing.",
+        "A hidden valuable item is one possible explanation, but the current records do not conclusively establish what was hidden or who wanted it."
+      ],
+      "next_puzzle": 7
+    },
+    {
+      "id": 7,
+      "title": "The Final Report",
+      "question": "Who most likely stole The Blue Room, how was it removed, what was the motive, and what happened at 9:17 PM? Support each conclusion with evidence and acknowledge any uncertainty.",
+      "accepted_answers": [],
+      "evidence": [
+        "All evidence released during the case"
+      ],
+      "hints": [
+        "Build a timeline from the card use, camera gap, recovered message, and loading-dock record.",
+        "Separate direct evidence from inference, especially when identifying who used the access card.",
+        "Your report must explain the suspect, method, motive, and significance of 9:17 PM."
+      ],
+      "next_puzzle": null
+    }
+  ]
+}
